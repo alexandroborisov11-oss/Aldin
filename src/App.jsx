@@ -67,7 +67,7 @@ export default function App() {
             </a>
           </div>
           <div className="rounded-[2.5rem] overflow-hidden shadow-2xl border-[12px] border-white aspect-square lg:aspect-auto lg:h-[500px]">
-            <img src="/painter.jpg" alt="Aldin Yordanov Schilderwerk" className="w-full h-full object-cover" />
+            <img src="/painter.png" alt="Aldin Yordanov Schilderwerk" className="w-full h-full object-cover" />
           </div>
         </div>
       </header>
