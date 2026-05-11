@@ -115,7 +115,7 @@ export default function App() {
               </div>
               <div className="flex items-center gap-4 text-lg">
                 <Mail size={24} className="text-blue-400" />
-                <a href="mailto:aldinyordanov@gmail.com" className="hover:text-white transition-colors">aldinyordanov@gmail.com</a>
+                <a href="mailto:info@renionderhoud.com" className="hover:text-white transition-colors">info@renionderhoud.com</a>
               </div>
               <div className="flex items-center gap-4 text-lg">
                 <Clock size={24} className="text-blue-400" /> Ma - Za: 08:00 - 18:00
